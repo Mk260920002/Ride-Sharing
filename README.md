@@ -1,2 +1,3 @@
 # Ride-Sharing
-This repo contaion different versoning of implementaion for ride sharing application by using best practice for Design Pricipal &amp; patterns
+
+This repo contains different versions of implementations for a ride-sharing application, using best practices for Design Principles & patterns.
